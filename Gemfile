@@ -26,6 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Provides Haml generators for Rails 4
 gem "haml-rails", "~> 0.9"
 
+# Provides the Font-Awesome web fonts and stylesheets as a Rails engine
+gem "font-awesome-rails"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 # Use Unicorn as the app server
