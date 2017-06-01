@@ -29,6 +29,9 @@ gem "haml-rails", "~> 0.9"
 # Provides the Font-Awesome web fonts and stylesheets as a Rails engine
 gem "font-awesome-rails"
 
+# Devise is a flexible authentication solution
+gem 'devise'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 # Use Unicorn as the app server
